@@ -1,7 +1,5 @@
 # Ultra Compounds
 
-Detailed infomation regarding use and dosing protocols
-
 - [HGH 10IU](hgh)
 - [GHK-Cu 100mg](ghk-cu)
 - [BPC 157 5mg](bpc-157)
