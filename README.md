@@ -10,3 +10,5 @@ Detailed infomation regarding use and dosing protocols
 - [Semax 10mg](semax)
 - [DSIP 12mg](dsip)
 - [Epithalon 50mg](epithalon)
+- [Modafinil]
+- [Armodafinil]
